@@ -1,0 +1,17 @@
+{
+  "name": "next-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^2.0.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
